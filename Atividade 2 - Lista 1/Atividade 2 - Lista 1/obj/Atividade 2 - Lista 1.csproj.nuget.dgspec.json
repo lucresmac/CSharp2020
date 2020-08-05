@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kmluc\\Source\\Repos\\CSharp2020\\Atividade 1 - Lista 1\\Atividade 1 - Lista 1\\Atividade 1 - Lista 1.csproj": {}
+    "C:\\Users\\kmluc\\Source\\Repos\\CSharp2020\\Atividade 2 - Lista 1\\Atividade 2 - Lista 1\\Atividade 2 - Lista 1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kmluc\\Source\\Repos\\CSharp2020\\Atividade 1 - Lista 1\\Atividade 1 - Lista 1\\Atividade 1 - Lista 1.csproj": {
+    "C:\\Users\\kmluc\\Source\\Repos\\CSharp2020\\Atividade 2 - Lista 1\\Atividade 2 - Lista 1\\Atividade 2 - Lista 1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kmluc\\Source\\Repos\\CSharp2020\\Atividade 1 - Lista 1\\Atividade 1 - Lista 1\\Atividade 1 - Lista 1.csproj",
-        "projectName": "Atividade 1 - Lista 1",
-        "projectPath": "C:\\Users\\kmluc\\Source\\Repos\\CSharp2020\\Atividade 1 - Lista 1\\Atividade 1 - Lista 1\\Atividade 1 - Lista 1.csproj",
+        "projectUniqueName": "C:\\Users\\kmluc\\Source\\Repos\\CSharp2020\\Atividade 2 - Lista 1\\Atividade 2 - Lista 1\\Atividade 2 - Lista 1.csproj",
+        "projectName": "Atividade 2 - Lista 1",
+        "projectPath": "C:\\Users\\kmluc\\Source\\Repos\\CSharp2020\\Atividade 2 - Lista 1\\Atividade 2 - Lista 1\\Atividade 2 - Lista 1.csproj",
         "packagesPath": "C:\\Users\\kmluc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kmluc\\Source\\Repos\\CSharp2020\\Atividade 1 - Lista 1\\Atividade 1 - Lista 1\\obj\\",
+        "outputPath": "C:\\Users\\kmluc\\Source\\Repos\\CSharp2020\\Atividade 2 - Lista 1\\Atividade 2 - Lista 1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kmluc\\AppData\\Roaming\\NuGet\\NuGet.Config",
