@@ -1,0 +1,12 @@
+C:\Users\kmluc\source\repos\CSharp2020\Atividade 6 - Lista 1\Atividade 6 - Lista 1\bin\Debug\netcoreapp3.1\Atividade 6 - Lista 1.exe
+C:\Users\kmluc\source\repos\CSharp2020\Atividade 6 - Lista 1\Atividade 6 - Lista 1\bin\Debug\netcoreapp3.1\Atividade 6 - Lista 1.deps.json
+C:\Users\kmluc\source\repos\CSharp2020\Atividade 6 - Lista 1\Atividade 6 - Lista 1\bin\Debug\netcoreapp3.1\Atividade 6 - Lista 1.runtimeconfig.json
+C:\Users\kmluc\source\repos\CSharp2020\Atividade 6 - Lista 1\Atividade 6 - Lista 1\bin\Debug\netcoreapp3.1\Atividade 6 - Lista 1.runtimeconfig.dev.json
+C:\Users\kmluc\source\repos\CSharp2020\Atividade 6 - Lista 1\Atividade 6 - Lista 1\bin\Debug\netcoreapp3.1\Atividade 6 - Lista 1.dll
+C:\Users\kmluc\source\repos\CSharp2020\Atividade 6 - Lista 1\Atividade 6 - Lista 1\bin\Debug\netcoreapp3.1\Atividade 6 - Lista 1.pdb
+C:\Users\kmluc\source\repos\CSharp2020\Atividade 6 - Lista 1\Atividade 6 - Lista 1\obj\Debug\netcoreapp3.1\Atividade 6 - Lista 1.AssemblyInfoInputs.cache
+C:\Users\kmluc\source\repos\CSharp2020\Atividade 6 - Lista 1\Atividade 6 - Lista 1\obj\Debug\netcoreapp3.1\Atividade 6 - Lista 1.AssemblyInfo.cs
+C:\Users\kmluc\source\repos\CSharp2020\Atividade 6 - Lista 1\Atividade 6 - Lista 1\obj\Debug\netcoreapp3.1\Atividade 6 - Lista 1.csproj.CoreCompileInputs.cache
+C:\Users\kmluc\source\repos\CSharp2020\Atividade 6 - Lista 1\Atividade 6 - Lista 1\obj\Debug\netcoreapp3.1\Atividade 6 - Lista 1.dll
+C:\Users\kmluc\source\repos\CSharp2020\Atividade 6 - Lista 1\Atividade 6 - Lista 1\obj\Debug\netcoreapp3.1\Atividade 6 - Lista 1.pdb
+C:\Users\kmluc\source\repos\CSharp2020\Atividade 6 - Lista 1\Atividade 6 - Lista 1\obj\Debug\netcoreapp3.1\Atividade 6 - Lista 1.genruntimeconfig.cache
