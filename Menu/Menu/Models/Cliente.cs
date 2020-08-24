@@ -3,10 +3,13 @@ using System.Collections.Generic;
 using System.Dynamic;
 using System.Text;
 
-namespace Menu
+namespace Menu.Models
 {
     class Cliente
     {
+        //construtores
+        
+
         //Atributo , propriedades  e caracteristicas
         public Cliente()
         {

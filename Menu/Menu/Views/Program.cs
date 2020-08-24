@@ -1,18 +1,37 @@
-﻿using System;
+﻿using Menu.DAL;
+using Menu.Models;
+using System;
 using System.Collections.Generic;
 using System.Security.Cryptography.X509Certificates;
 
-namespace Menu
+/*
+[ ] Usar MVC
+Criar pasta para views e models
+
+[x ]Mover a Lista para camada DAL/DAO ou repositorio
+
+[ x]Criar os metodos de manipulação da lista
+[ x]Separar cada case em uma nova classe de visualização
+[ x]Separar o metodo de validação de CPF
+[ ]Modularizar a validação do CPF
+    [ ]Criar metodo para remover a formatação
+    [ ]Criar metodo para validar validação do cpf
+[ x]Modularizar o cadastrado do cliente
+
+ */
+
+
+
+namespace Menu.Views
 {
     class Program
     {
         static void Main(string[] args)
         {
             int op;
-            
             //Criar lista
             Cliente c = new Cliente();
-            List<Cliente> clientes = new List<Cliente>();
+            
             do
             {
                 
@@ -40,52 +59,11 @@ namespace Menu
                 switch (op)
                 {
                     case 1:
-                        //Para não dar problema na hora de listar na memoria
-                        c = new Cliente();
-                        // Colocar dados
-                        Console.WriteLine("==== 1 - Cadastrar Cliente =====");
-                        Console.WriteLine("==== Digite nome do cliente =====");
-                        c.Nome = Console.ReadLine();
-                        Console.WriteLine("==== Digite CPF do cliente =====");
-                        c.Cpf = Console.ReadLine();
-
-                        //verificação de cpf
-                        //int teste = Convert.ToInt16(clientes); 
-                        if (clientes.Count == 0)
-                        {
-                            clientes.Add(c);
-                            Console.WriteLine("Primeiro cliente salvo com sucesso");
-                        }
-                        else
-                        {
-                            bool verific = false;
-                            foreach (Cliente clienteCadastrado in clientes)
-                            {
-                                if (clienteCadastrado.Cpf == c.Cpf)
-                                {
-                                    verific = true;
-                                }                              
-                            }
-                            if (verific)
-                            {
-                                Console.Clear();
-                                Console.WriteLine("CPF já cadastrado , voltando ao menu");
-                            }
-                            else
-                            {
-                                Console.Clear();
-                                clientes.Add(c);
-                                Console.WriteLine("Cliente salvo com sucesso");
-                                
-                            }
-                        }
+                        CadastrarCliente.Renderizar();
                         break;
                     case 2:
-                        Console.WriteLine("==== 2 - List de Clientes =====");
-                        foreach (Cliente clienteCadastrado in clientes)
-                        {
-                            Console.WriteLine(clienteCadastrado);
-                        }
+                        ListarClientes.Renderizar();
+
                         break;
                     case 0:
                         Console.WriteLine("====       Saindo...       =====");
@@ -101,5 +79,7 @@ namespace Menu
 
             } while (op != 0);
         }
+
+        
     }
 }
