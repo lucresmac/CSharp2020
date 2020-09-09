@@ -1,0 +1,26 @@
+C:\Users\kmluc\source\repos\CSharp2020\Menu\Menu\bin\Debug\netcoreapp3.1\Menu.exe
+C:\Users\kmluc\source\repos\CSharp2020\Menu\Menu\bin\Debug\netcoreapp3.1\Menu.deps.json
+C:\Users\kmluc\source\repos\CSharp2020\Menu\Menu\bin\Debug\netcoreapp3.1\Menu.runtimeconfig.json
+C:\Users\kmluc\source\repos\CSharp2020\Menu\Menu\bin\Debug\netcoreapp3.1\Menu.runtimeconfig.dev.json
+C:\Users\kmluc\source\repos\CSharp2020\Menu\Menu\bin\Debug\netcoreapp3.1\Menu.dll
+C:\Users\kmluc\source\repos\CSharp2020\Menu\Menu\bin\Debug\netcoreapp3.1\Menu.pdb
+C:\Users\kmluc\source\repos\CSharp2020\Menu\Menu\obj\Debug\netcoreapp3.1\Menu.AssemblyInfoInputs.cache
+C:\Users\kmluc\source\repos\CSharp2020\Menu\Menu\obj\Debug\netcoreapp3.1\Menu.AssemblyInfo.cs
+C:\Users\kmluc\source\repos\CSharp2020\Menu\Menu\obj\Debug\netcoreapp3.1\Menu.csproj.CoreCompileInputs.cache
+C:\Users\kmluc\source\repos\CSharp2020\Menu\Menu\obj\Debug\netcoreapp3.1\Menu.dll
+C:\Users\kmluc\source\repos\CSharp2020\Menu\Menu\obj\Debug\netcoreapp3.1\Menu.pdb
+C:\Users\kmluc\source\repos\CSharp2020\Menu\Menu\obj\Debug\netcoreapp3.1\Menu.genruntimeconfig.cache
+C:\Users\kmluc\source\repos\CSharp2020\Menu\Menu\obj\Debug\netcoreapp3.1\Menu.csprojAssemblyReference.cache
+C:\Users\kmluc\Source\Repos\CSharp2020\Menu - Copia\Menu\obj\Debug\netcoreapp3.1\Menu.csprojAssemblyReference.cache
+C:\Users\kmluc\Source\Repos\CSharp2020\Menu - Copia\Menu\obj\Debug\netcoreapp3.1\Menu.AssemblyInfoInputs.cache
+C:\Users\kmluc\Source\Repos\CSharp2020\Menu - Copia\Menu\obj\Debug\netcoreapp3.1\Menu.AssemblyInfo.cs
+C:\Users\kmluc\Source\Repos\CSharp2020\Menu - Copia\Menu\obj\Debug\netcoreapp3.1\Menu.csproj.CoreCompileInputs.cache
+C:\Users\kmluc\Source\Repos\CSharp2020\Menu - Copia\Menu\obj\Debug\netcoreapp3.1\Menu.dll
+C:\Users\kmluc\Source\Repos\CSharp2020\Menu - Copia\Menu\obj\Debug\netcoreapp3.1\Menu.pdb
+C:\Users\kmluc\Source\Repos\CSharp2020\Menu - Copia\Menu\bin\Debug\netcoreapp3.1\Menu.exe
+C:\Users\kmluc\Source\Repos\CSharp2020\Menu - Copia\Menu\bin\Debug\netcoreapp3.1\Menu.deps.json
+C:\Users\kmluc\Source\Repos\CSharp2020\Menu - Copia\Menu\bin\Debug\netcoreapp3.1\Menu.runtimeconfig.json
+C:\Users\kmluc\Source\Repos\CSharp2020\Menu - Copia\Menu\bin\Debug\netcoreapp3.1\Menu.runtimeconfig.dev.json
+C:\Users\kmluc\Source\Repos\CSharp2020\Menu - Copia\Menu\bin\Debug\netcoreapp3.1\Menu.dll
+C:\Users\kmluc\Source\Repos\CSharp2020\Menu - Copia\Menu\bin\Debug\netcoreapp3.1\Menu.pdb
+C:\Users\kmluc\Source\Repos\CSharp2020\Menu - Copia\Menu\obj\Debug\netcoreapp3.1\Menu.genruntimeconfig.cache

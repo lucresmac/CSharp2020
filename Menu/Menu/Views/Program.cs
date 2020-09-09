@@ -31,7 +31,7 @@ namespace Menu.Views
             int op;
             //Criar lista
             Cliente c = new Cliente();
-            
+            Vendedor d = new Vendedor();
             do
             {
                 
@@ -63,7 +63,12 @@ namespace Menu.Views
                         break;
                     case 2:
                         ListarClientes.Renderizar();
-
+                        break;
+                    case 3:
+                        CadastrarVendedor.Renderizar();
+                        break;
+                    case 4:
+                        ListarVendedor.Renderizar();
                         break;
                     case 0:
                         Console.WriteLine("====       Saindo...       =====");
